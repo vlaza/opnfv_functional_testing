@@ -1,8 +1,10 @@
 .. topic:: Project: OPNFV - Base system functionality testing 
+--------------------------------------------------------------
 
   * Proposed name for the project: **OPNFV – Base system functionality testing**
   * Proposed name for the repository: **functest**
   * Project Categories: Integration & Testing
+
 
 Project description
 -----------------------
@@ -86,7 +88,8 @@ Key Project Facts
 
 {{scrape>https://gerrit.opnfv.org/gerrit/gitweb?p=functest.git;a=blob_plain;f=INFO;}}
 
-  * Additional Contributors  
+  Additional Contributors:
+  
     * Frank Brockners (fbrockne@cisco.com)
     * Sajeev Manikkoth (sajeevmanikkoth@gmail.com)
     * Jun Li (yuyijun@huawei.com)
