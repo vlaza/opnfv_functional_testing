@@ -1,5 +1,6 @@
-.. topic:: Project: OPNFV - Base system functionality testing 
---------------------------------------------------------------
+#######################################################
+H1: Project: OPNFV - Base system functionality testing 
+#######################################################
 
   * Proposed name for the project: **OPNFV – Base system functionality testing**
   * Proposed name for the repository: **functest**
@@ -7,7 +8,7 @@
 
 
 Project description
------------------------
+====================
 
         Project “OPNFV – Base system functionality testing” will provide comprehensive testing methodology, test suites and test cases to test and verify OPNFV Platform functionality that covers the  VIM and NFVI components. 
 
@@ -28,7 +29,7 @@ Project description
 
 
 Scope
---------
+======
 
         “OPNFV – Base system functionality testing” will deliver a functional testing framework along with a set of test suites and test cases to test and verify the functionality OPNFV platform. The testing framework (tools, test-cases, etc.) are also intended to be used by the CI framework for the purpose of qualifying the OPNFV platform on bare metal servers. In this context, OPNFV Tester will use open source VNF components.
 
@@ -55,7 +56,7 @@ Scope
 
 
 Functional Testing covered
----------------------------
+===========================
 
 The following links provide the detailed test suites and drill down into the test suites/test cases to cover the functional testing.
 
@@ -67,7 +68,7 @@ The following links provide the detailed test suites and drill down into the tes
         The above test suites/cases are automated via Robot/Jenkins.
 
 Dependencies
--------------
+=============
 
   * The project is a contributor to project “Octopus”.
   * The project leverages  "Boot Strap/Get Started"
@@ -84,7 +85,7 @@ Dependencies
 
 
 Key Project Facts
-------------------
+==================
 
 {{scrape>https://gerrit.opnfv.org/gerrit/gitweb?p=functest.git;a=blob_plain;f=INFO;}}
 
@@ -100,7 +101,7 @@ Key Project Facts
 
  
 Planned deliverables
----------------------
+=====================
 
 Project deliverable:
 The project delivers the following components:
@@ -112,7 +113,7 @@ The project delivers the following components:
   * Automated Test Framework based on Tempest/Robot/Jenkins, with necessary scripts and tools to automatically test and verify OPNFV functionality
 
 Proposed Release Schedule
---------------------------
+==========================
 
 OPNFV release #1.
 
