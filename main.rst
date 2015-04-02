@@ -1,5 +1,5 @@
 #######################################################
-H1: Project: OPNFV - Base system functionality testing 
+ Project: OPNFV - Base system functionality testing 
 #######################################################
 
   * Proposed name for the project: **OPNFV – Base system functionality testing**
